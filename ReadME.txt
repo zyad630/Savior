@@ -16,3 +16,6 @@ Results: The drone successfully detects and locates people under debris, transmi
 
 Code Organization
 The project code is structured with clear separation between sensor data acquisition, image processing, and communication handling. The code is organized into multiple files for easy understanding and execution. The system uses an Arduino IDE for sensor integration and Python for data processing and communication.
+
+
+data set link (https://universe.roboflow.com/thesis-ycrnd/primary-thermal-data/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true)
